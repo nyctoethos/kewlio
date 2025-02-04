@@ -1,0 +1,9 @@
+{
+    "name": "AI Racer",
+    "steering_center": -0.21,
+    "steering_left_max": 0.32,
+    "steering_right_max": -0.55,
+    "throttle_forward_start": 0.03,
+    "throttle_reverse_start": 0.23,
+    "dead_throttle": 0.11
+}
